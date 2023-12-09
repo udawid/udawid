@@ -5,7 +5,7 @@
 <br/><br/><br/>
 
 - 🌱 I’m currently learning **React, Next.js**
-- 📫 How to reach me **udawid@gmail.com**
+- 📫 How to reach me **udawid00@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
