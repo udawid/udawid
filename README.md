@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 - 📫 How to reach me **udawid00@gmail.com**
+- Portfolio: https://udawid.netlify.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
